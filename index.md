@@ -1,1 +1,1 @@
-#　ここはKuroro Helperの規約ページです
+# ここはKuroro Helperの規約ページです
