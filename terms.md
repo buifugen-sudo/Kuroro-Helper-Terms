@@ -6,7 +6,7 @@
 - 利用はすべて自己責任とします。本サービスの利用により発生した損害について、運営は一切責任を負いません。
 
 ## 1. 運営者情報
-- サービス名：kuroro Helper
+- サービス名：Kuroro Helper
 - 運営者：kuroro（ハンドルネーム）
 - 問い合わせ先：kuroro.helper@gmail.com
 
