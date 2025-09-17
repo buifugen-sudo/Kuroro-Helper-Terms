@@ -45,7 +45,7 @@
 
 ## 9. 第三者サービスの利用
 本サービスは YouTube API を利用しています。
-ユーザーは本サービスを利用することで、YouTube の利用規約（https://www.youtube.com/t/terms）にも同意したものとみなされます。
+ユーザーは本サービスを利用することで、YouTube の利用規約 （https://www.youtube.com/t/terms） にも同意したものとみなされます。
 
 ## 10. 免責事項
 本サービスは YouTube API を利用していますが、YouTube の利用規約・ガイドラインを遵守する必要があります。
